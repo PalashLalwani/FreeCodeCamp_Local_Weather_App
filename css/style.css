@@ -1,0 +1,62 @@
+body{
+  background-size: 50%;
+   width: 550px; 
+   margin: 0px auto;
+  display: flex;
+  background-attachment: fixed;
+  background-color: #222;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  flex-direction: column;  
+  font-family: 'Cabin', sans-serif;
+  min-height: 100vh;
+  min-width: 320px;
+  text-align: center;
+};
+.weather_app{
+  font-family:Aclonica;
+  margin-bottom:2%;
+  padding: 10px;
+  text-align:center;
+  text-shadow: 5px 1px 5px blue, 0 0 25px gold, 0 0 69px red;
+
+
+}
+
+.mobile-button {
+  color: black;
+  border-radius: 5px;
+  margin-left:1.8%;
+  margin-bottom:2%;
+  cursor:pointer;
+  outline:none;
+  border: none;
+  background: transparent;
+
+
+}
+.seredina{
+  display:block;
+  width:100%;
+}
+.itemPromo{
+  font-family:;
+  font-size:24px;
+}
+.end{ 
+  text-align:center;
+  font-family:"Amatic SC";
+  font-size:30px;
+  text-decoration: none;  
+}
+h1{
+  color: yellow;
+}
+p{
+    color: #cc0099;
+}
+a{
+  color:white;
+}
